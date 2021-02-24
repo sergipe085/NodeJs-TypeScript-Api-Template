@@ -59,6 +59,8 @@ Quer contribuir com código? Pedimos que antes leia [este guia de contribuição
 
 Não esqueça de deixar a sua ⭐, também é um modo de contribuir com o projeto ;)
 
+##
+
 Every kind of contribution is welcome, we admire it!
 
 Is there any problem? Found a bug? Do you have any tips? Open an [issue](https://github.com/serjolas1/NodeJs-TypeScript-Api-Template/issues) describing it.
