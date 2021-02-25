@@ -74,4 +74,4 @@ Want to contribute code? We ask that you first read [this contribution guide](ht
 Don't forget to leave your ⭐, it is also a way to contribute to the project;)
 
 ---
-Criado por [serjolas1](https://github.com/serjolas1) 💜
+Criado por / Made by [serjolas1](https://github.com/serjolas1) 💜
