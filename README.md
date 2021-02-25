@@ -24,6 +24,9 @@
 ## 💻 Sobre o projeto
 
 Este é um projeto template para voce que esta cansado de sempre precisar configurar o NodeJs com TypeScript
+
+##
+
 This is a template project for you who are tired of always needing to configure NodeJs with TypeScript
 
 ## 🚀 Como executar o projeto
