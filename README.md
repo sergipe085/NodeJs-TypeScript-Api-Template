@@ -21,39 +21,39 @@
    * [Tecnologias](#-tecnologias)
    * [Como contribuir no projeto](#-como-contribuir-no-projeto)
 
-## 💻 Sobre o projeto
+## 💻 Sobre o projeto // About the project
 
 Este é um projeto template para voce que esta cansado de sempre precisar configurar o NodeJs com TypeScript
 
-##
+<br>
 
 This is a template project for you who are tired of always needing to configure NodeJs with TypeScript
 
 ## 🚀 Como executar o projeto
 
-#### Clone o repositório
+#### Clone o repositório / Clone the repository
 ```bash
 git clone https://github.com/serjolas1/NodeJs-TypeScript-Api-Template.git
 ```
 
-#### Instale as dependências
+#### Instale as dependências / Install the dependencies
 ```bash
 yarn install
 ```
 
-#### Rode a aplicação
+#### Rode a aplicação / Run the application
 ```bash
 yarn dev
 ```
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias / Technologies
 
 As seguintes ferramentas foram usadas na construção do projeto:
 - [ExpressJs](https://expressjs.com/pt-br/)
 - [NodeJs](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🤝 Como contribuir no projeto
+## 🤝 Como contribuir no projeto // How to contribute to the project
 
 Todo tipo de contribuição é bem-vinda, nós admiramos isso!
 
@@ -63,7 +63,7 @@ Quer contribuir com código? Pedimos que antes leia [este guia de contribuição
 
 Não esqueça de deixar a sua ⭐, também é um modo de contribuir com o projeto ;)
 
-##
+<br>
 
 Every kind of contribution is welcome, we admire it!
 
