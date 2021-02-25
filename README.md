@@ -53,7 +53,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [NodeJs](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🤝 Como contribuir no projeto // How to contribute to the project
+## 🤝 Como contribuir no projeto / How to contribute to the project
 
 Todo tipo de contribuição é bem-vinda, nós admiramos isso!
 
