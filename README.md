@@ -14,14 +14,14 @@
   </div>
 </div>
     
-## Tabela de conteúdos
+## Tabela de conteúdos / Table of contents
 
    * [Sobre o projeto](#-sobre-o-projeto)
    * [Como executar o projeto](#-como-executar-o-projeto)
    * [Tecnologias](#-tecnologias)
    * [Como contribuir no projeto](#-como-contribuir-no-projeto)
 
-## 💻 Sobre o projeto // About the project
+## 💻 Sobre o projeto / About the project
 
 Este é um projeto template para voce que esta cansado de sempre precisar configurar o NodeJs com TypeScript
 
@@ -29,7 +29,7 @@ Este é um projeto template para voce que esta cansado de sempre precisar config
 
 This is a template project for you who are tired of always needing to configure NodeJs with TypeScript
 
-## 🚀 Como executar o projeto
+## 🚀 Como executar o projeto / How to run the project
 
 #### Clone o repositório / Clone the repository
 ```bash
